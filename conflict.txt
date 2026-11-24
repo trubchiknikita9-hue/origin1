@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Строка 1: Текст из ветки main
+=======
+Строка 1: Текст из feature-branch
+>>>>>>> feature-branch
